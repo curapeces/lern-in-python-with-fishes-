@@ -1,0 +1,4 @@
+this is a single proyect in this language (python ) you multipli the lagrge , hight and deep of the acurium if a 
+cube  multiply  one side 3 times or the formule if a rectangle and divide with 1000
+if rectyagle large = l deep = d and a higth=h l*d*h /1000 have result i liters  if you like in galons  divide with 3.73
+if cube large *3 /1000 = liters of acuarium
