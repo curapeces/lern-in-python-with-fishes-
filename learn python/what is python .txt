@@ -1,0 +1,22 @@
+python is a high level programning lenguaje objet programing orinted  for develomemt of web,  aplications  ,etc   
+is powerful and versatile 
+
+
+
+what is a  programing lenguaje is a sequence of instructions crate an algoritm.
+programing language is  divided in hight level and low level language
+|higth level lenguaje is a similar a natura language a natual language is like english ,spanish ,etc
+| a programing language is python  javascript  
+|
+|c++ is an of intermediate naturale language an machine language
+|
+|a low level is language is similar to  machine language is "unintelligible" a low level programing lenguaje is  asembler
+|pascal
+the code to write hello word  in 
+ python  1 line of code
+ pascal 5 lines of code
+ asembler 16 lines of code
+ 
+ 
+ 
+ 
